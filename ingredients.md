@@ -1,4 +1,4 @@
-Ingredients: put them anywhere in crafting table, recipie is shapeless
+Ingredients: 
 
 1 cooked rabbit,
 1 bowl
